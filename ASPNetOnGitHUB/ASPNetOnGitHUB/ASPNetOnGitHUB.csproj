@@ -116,6 +116,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Feature1.txt" />
     <Content Include="Feature2.txt" />
+    <Content Include="Feature3.txt" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
