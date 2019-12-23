@@ -4,3 +4,5 @@
 
 /ASPNetOnGitHUB/.vs/ASPNetOnGitHUB/v15/Server/sqlite3/db.lock
 *.lock
+/ASPNetOnGitHUB/ASPNetOnGitHUB/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+/ASPNetOnGitHUB/.vs/ASPNetOnGitHUB/v15/Server
