@@ -5,4 +5,5 @@
     <h3>Your application description page.</h3>
     <p>Use this area to provide additional information.</p>
     <p>Changes to release 2 come here ...</p>
+    <p>Another changes to release 3 come here ...</p>
 </asp:Content>
